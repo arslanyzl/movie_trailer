@@ -31,4 +31,4 @@ Navigate to the project directory and type in the following command:
 python entertainment_center.py
 ```
 
-2) Open the ```entertainment_center.py``` file with IDLE, and ```RUN``` it
+2) Open the ```entertainment_center.py``` file and ```RUN``` it
