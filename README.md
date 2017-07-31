@@ -9,7 +9,7 @@ movie posters. Click on a movie poster to play trailer.
 
 Python is required to run this project. 
 
-## Files List
+## File List
 
 Project consists of the following files:
 
