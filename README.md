@@ -19,13 +19,12 @@ Project consists of the following files:
 
 ## How to Run
 
-Download the project zip file to you computer and unzip the file. There are two 
+Download the project files to you computer. Files must be in the same directory. There are two 
 ways to run it:
 
 1) Open the text-based interface for your operating system (e.g. the terminal
-window in Linux, the command prompt in Windows).
-
-Navigate to the project directory and type in the following command:
+window in Linux, the command prompt in Windows). Navigate to the project local directory 
+and type in the following command:
 
 ```bash
 python entertainment_center.py
