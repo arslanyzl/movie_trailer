@@ -25,7 +25,6 @@ There are two ways to run it:
 1) Open the text-based interface for your operating system (the terminal
 window in Linux). Navigate to the project local directory and type in the 
 following command:
-
 ```bash
 python entertainment_center.py
 ```
